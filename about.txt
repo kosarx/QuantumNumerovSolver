@@ -1,0 +1,8 @@
+Execute main.py to run on the terminal/command line.
+
+Made for University of Patras, Department of ECE, 
+Course:Introduction to Quantum Electronics, Prof. Paspalakis
+by Kosmas Archontis
+
+REQUIRES:
+python3, numpy, scipy, matplotlib
