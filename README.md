@@ -4,6 +4,7 @@ An application in Python Numpy that uses the Numerov-Cooley Method to numericall
 
 ## Numerical Methods
 ----------
+
 The Numerov Method is given by:
 
 ![The Numerov Method Formula](images/numerovMethod.png)
