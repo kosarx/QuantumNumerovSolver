@@ -37,7 +37,7 @@ Cooley's Energy Correction Formula is:
 ![Double Finite Potential Well with Quantum Number 3 and 100 points](images/DWPn3N100.png)
 ![Double Finite Potential Well with Quantum Number 4 and 100 points](images/DWPn4N100.png)
 ![Uneven Double Finite Potential Well with Quantum Number 3 and 100 points](images/unevenDWPn3N100.png)
-![No Barrier Double Finite Potential Well with Quantum Number 3 and 100 points](images/noBarrierDWPn3N100/png)
+![No Barrier Double Finite Potential Well with Quantum Number 3 and 100 points](images/noBarrierDWPn3N100.png)
 
 # How To:
 ----------
