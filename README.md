@@ -2,8 +2,42 @@
 ----------
 An application in Python Numpy that uses the Numerov-Cooley Method to numerically solve the 1-D Time-independent Schrödinger Equation.
 
-## Numerov Method
-The Numerov Method is given by
+## Numerical Methods
+----------
+The Numerov Method is given by:
+![The Numerov Method Formula](images/numerovMethod.png)
+
+Cooley's Energy Correction Formula is:
+![Cooley's Energy Correction Formula](images/CooleysEnergyCorrectionFormula.png)
+
+## Showcase
+----------
+
+### Particle In A Box
+![Particle in a Box with Quantum Number 1 and 100 points](images/PIBn1N100.png)
+![Particle in a Box with Quantum Number 8 and 400 points](images/PIBn8N400.png)
+
+### Finite Potential Square Well
+![Finite Potential Square Well with Quantum Number 1 and 100 points](images/FPWn1N100.png)
+![Finite Potential Square Well with Quantum Number 4 and 200 points](images/FPWn4N200.png)
+
+### The Quantum Harmonic Oscillator
+![Quantum Harmonic Oscillator with Quantum Number 1 and 100 points](images/QHOn1N100.png)
+![Quantum Harmonic Oscillator with Quantum Number 2 and 100 points](images/QHOn2N100.png)
+![Quantum Harmonic Oscillator with Quantum Number 3 and 100 points](images/QHOn3N100.png)
+![Quantum Harmonic Oscillator with Quantum Number 6 and 200 points](images/QHOn6N200.png)
+
+### Pöschl-Teller Potential
+![Pöschl-Teller Potential with Quantum Number 1 and 100 points](images/PTWn1N100.png)
+![Pöschl-Teller Potential with Quantum Number 4 and 100 points](images/PTWn4N100.png)
+
+### Double Finite Potential Well
+![Double Finite Potential Well with Quantum Number 1 and 100 points](images/DWPn1N100.png)
+![Double Finite Potential Well with Quantum Number 2 and 500 points](images/DWPn2N500.png)
+![Double Finite Potential Well with Quantum Number 3 and 100 points](images/DWPn3N100.png)
+![Double Finite Potential Well with Quantum Number 4 and 100 points](images/DWPn4N100.png)
+![Uneven Double Finite Potential Well with Quantum Number 3 and 100 points](images/unevenDWPn3N100.png)
+![No Barrier Double Finite Potential Well with Quantum Number 3 and 100 points](images/noBarrierDWPn3N100/png)
 
 # How To:
 ----------
