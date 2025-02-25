@@ -27,7 +27,6 @@ Cooley's Energy Correction Formula is:
 ### The Quantum Harmonic Oscillator
 ![Quantum Harmonic Oscillator with Quantum Number 1 and 100 points](images/QHOn1N100.png)
 ![Quantum Harmonic Oscillator with Quantum Number 2 and 100 points](images/QHOn2N100.png)
-![Quantum Harmonic Oscillator with Quantum Number 3 and 100 points](images/QHOn3N100.png)
 ![Quantum Harmonic Oscillator with Quantum Number 6 and 200 points](images/QHOn6N200.png)
 
 ### Pöschl-Teller Potential
@@ -64,4 +63,4 @@ matching, and Cooley's Energy Correction Formula for a given quantum state.
 
 Special mention must go out to Joshua Izaac and Jingbo Wang with their book Computational Quantum Mechanics, which basically carried the entire numerical side of this work, as well as to the awesome interactive
 lesson over at Liu Lab Computational Chemistry Tutorials (https://liu-group.github.io/interactive-Numerov-PIB/), which basically carried the python/numpy side of this work.
-Many other sources went into this as well, which are mentioned at the pdf.
+Many other sources went into this as well, which are mentioned in the pdf.
